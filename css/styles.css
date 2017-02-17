@@ -27,5 +27,21 @@ main {
 
 #cat3 {
   top: 450px;
-  right: 340px;
+  right: 400px;
+}
+#cat4 {
+  top: 400px;
+  left: 400px;
+}
+#catlist{
+  background: rgba(100, 100, 100, 0.5);
+  color: white;
+  top: 60px;
+  left: 20px;
+  display: none;
+  width: 250px;
+  position: absolute;
+}
+#catlist > ul{
+  list-style: none;
 }
